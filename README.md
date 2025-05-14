@@ -7,17 +7,10 @@ Passionate and skilled Data Scientist with a knack for driving insightful conclu
 
 <div align="center">
 
-**albertguiteras91@gmail.com**            **https://www.linkedin.com/in/albertguiteras/**
+**albertguiteras91@gmail.com**            **linkedin.com/in/albertguiteras/**
 
  </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql,git,github,vscode" />
 </div>
-
-<br/>
-
-<h2 align="center">📊 Github Stats 📊</h2>
-
-![Albert Guiteras' GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertguiteras&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertguiteras&layout=compact&show_icons=true&theme=radical)
