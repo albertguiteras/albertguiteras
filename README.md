@@ -7,12 +7,12 @@ Passionate and skilled Data Scientist with a knack for driving insightful conclu
 
 <div align="center">
  
-[Data Science](https://github.com/albertguiteras)  //  https://www.linkedin.com/in/albertguiteras/
+https://www.linkedin.com/in/albertguiteras/  albertguiteras91@gmail.com
 
  </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python, pandas, numpy, matplotlib, seaborn, sklearn, tensorflow, keras, pytorch, sql, mysql, git, github, vscode" />
+    <img src="https://skillicons.dev/icons?i=python, matplotlib, seaborn, sklearn, tensorflow, keras, pytorch, sql, mysql, git, github, vscode" />
 </div>
 
 <br/>
