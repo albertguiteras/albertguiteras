@@ -21,7 +21,7 @@ Passionate and skilled Data Scientist with a knack for driving insightful conclu
 
 <br>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql,git,github,vscode" />
