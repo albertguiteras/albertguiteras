@@ -7,6 +7,8 @@ Passionate and skilled Data Scientist with a knack for driving insightful conclu
 
 <div align="center">
 
+
+
   <a href="mailto:albertguiteras91@gmail.com" style="margin: 0 10px;">
     📧 albertguiteras91@gmail.com
   </a> &nbsp;&nbsp;|&nbsp;&nbsp;
