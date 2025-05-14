@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Albert Guiteras! 👋</h1>
+<h1 align="center">Albert Guiteras</h1>
 
 <h3 align="center">Data Science and Machine Learning</h3>
 
