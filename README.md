@@ -7,9 +7,14 @@ Passionate and skilled Data Scientist with a knack for driving insightful conclu
 
 <div align="center">
 
-**albertguiteras91@gmail.com**            **linkedin.com/in/albertguiteras/**
+  <a href="mailto:albertguiteras91@gmail.com" style="margin: 0 10px;">
+    📧 albertguiteras91@gmail.com
+  </a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/albertguiteras/" target="_blank" style="margin: 0 10px;">
+    🔗 linkedin.com/in/albertguiteras/
+  </a>
 
- </div>
+</div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql,git,github,vscode" />
