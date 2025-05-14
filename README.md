@@ -5,6 +5,7 @@
 <br> 
 Passionate and skilled Data Scientist with a knack for driving insightful conclusions from diverse datasets and leveraging Python programming for precise solutions. Familiar with Jupyter notebooks and committed to meticulous code documentation. Adept at collaborating with peers, advocating for code integrity, and unifying data from varied sources. Proven aptitude in solving complex Python challenges, and a strong foundation in mathematical reasoning. Fluent in English, seeking to contribute to pioneering tech ventures, and eager to grow professionally in a remote, global setting.
 
+
 <br>
 
 <div align="center">
