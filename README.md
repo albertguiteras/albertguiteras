@@ -1,23 +1,31 @@
-# 👋 ¡Hola! Soy Juan Pérez
+<h1 align="center">Hi, I'm Albert Guiteras! 👋</h1>
 
-Soy desarrollador web con interés en JavaScript, React y Node.js.
+<h3 align="center">Data Science and Machine Learning</h3>
 
-- 🔭 Actualmente trabajando en [MiProyecto](https://github.com/juanperez/miproyecto)
-- 🌱 Aprendiendo más sobre IA y DevOps
-- 💬 Pregúntame sobre desarrollo web o Git
-- 📫 Cómo contactarme: juanperez@example.com
-- 😄 Pronombres: él/he
-- ⚡ Fun fact: Me encanta el café y el ajedrez ♟️
+<br> 
 
-### 🛠️ Tecnologías y herramientas
+Passionate and skilled Data Scientist with a knack for driving insightful conclusions from diverse datasets and leveraging Python programming for precise solutions. Familiar with Jupyter notebooks and committed to meticulous code documentation. Adept at collaborating with peers, advocating for code integrity, and unifying data from varied sources. Proven aptitude in solving complex Python challenges, and a strong foundation in mathematical reasoning. Fluent in English, seeking to contribute to pioneering tech ventures, and eager to grow professionally in a remote, global setting.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<div align="center">
+ 
+🔭 I’m currently working on **Data Science / Machine Learning**
+ 
+💬 Ask me about **Python / Machine Learning / Data Science**
 
----
+📧 Reach me out: **albertguiteras91@gmail.com**
 
-### 📊 GitHub Stats
+📧 Reach me out: **linkedin.com/in/albertguiteras/**
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanperez&show_icons=true&theme=radical)
+ </div>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,tensorflow,sklearn,pytorch,github,git,fastapi,vscode" />
+</div>
+
+<br/>
+
+<h2 align="center">📊 Github Stats 📊</h2>
+
+![Albert Guiteras' GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertguiteras&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertguiteras&layout=compact&show_icons=true&theme=radical)
