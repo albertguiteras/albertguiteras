@@ -3,7 +3,9 @@
 <h3 align="center">Data Science and Machine Learning</h3>
 <br> 
 
-Passionate and skilled Data Scientist with a knack for driving insightful conclusions from diverse datasets and leveraging Python programming for precise solutions. Familiar with Jupyter notebooks and committed to meticulous code documentation. Adept at collaborating with peers, advocating for code integrity, and unifying data from varied sources. Proven aptitude in solving complex Python challenges, and a strong foundation in mathematical reasoning. Fluent in English, seeking to contribute to pioneering tech ventures, and eager to grow professionally in a remote, global setting.
+Data Scientist with a solid foundation in data analysis, machine learning, and data visualization. Passionate about turning complex data into clear, actionable insights that support business decisions.
+Currently building hands-on experience with end-to-end machine learning workflow, including data collection, preprocessing, model training, evaluation, and deployment. 
+Curious, results-oriented, and committed to continuous learning. Eager to apply data science skills to solve real-world challenges and contribute to data-driven solutions.
 
 <br>
 
