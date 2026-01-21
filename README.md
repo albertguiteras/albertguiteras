@@ -25,7 +25,7 @@ Curious, results-oriented, and committed to continuous learning. Eager to apply 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql,git,github,vscode,anaconda" />
+    <img src="https://skillicons.dev/icons?i=python,r,java,mysql,sklearn,github,vscode" />
 </div>
 
 
