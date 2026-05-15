@@ -28,7 +28,7 @@
 <h2 align="center"> 🛠️ Languages, Frameworks & Tools </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,r,mysql,postgres,scikit-learn,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,r,mysql,postgres,github,vscode" />
 </div>
 
 
